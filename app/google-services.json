@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744114699059",
+    "project_id": "mixtape-a75ec",
+    "storage_bucket": "mixtape-a75ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744114699059:android:cd074a3349564258c6dc46",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvMBZD4DFhN6UKqrfwc5darIXmT3ml1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
