@@ -29,7 +29,7 @@ You can customize this formula or update the model as needed.
 
 | Forecast Info |
 |-------------|---------------|
-| ![Forecast](screenshots/weather_info.png) |
+| ![Forecast](wetherappUI.jpeg) |
 
 ---
 
