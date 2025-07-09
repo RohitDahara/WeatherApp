@@ -25,10 +25,6 @@ You can customize this formula or update the model as needed.
 
 ## 🖥️ Screenshots
 
-> 💡 Add these images to your repo under a `screenshots/` folder.
-
-| Forecast Info |
-|-------------|---------------|
 | ![Forecast](wetherappUI.jpeg) |
 
 ---
