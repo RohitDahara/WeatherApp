@@ -27,9 +27,9 @@ You can customize this formula or update the model as needed.
 
 > 💡 Add these images to your repo under a `screenshots/` folder.
 
-| Home Screen | Forecast Info |
+| Forecast Info |
 |-------------|---------------|
-| ![Home](screenshots/home_screen.png) | ![Forecast](screenshots/weather_info.png) |
+| ![Forecast](screenshots/weather_info.png) |
 
 ---
 
